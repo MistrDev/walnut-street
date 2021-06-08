@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-container {
-  background: rgba(0, 0, 0, 0.705);
+  background: rgba(0, 0, 0, 0.315);
   display: table-cell;
   margin: 0;
   padding: 0;
@@ -466,7 +466,7 @@ section {
 .section-title-divider {
   width: 50px;
   height: 3px;
-  background: #03C4EB;
+  background: #0F2335;
   margin: 0 auto;
   margin-bottom: 20px;
 }
@@ -515,61 +515,6 @@ section {
   margin-bottom: 0;
 }
 
-/* Services Section
---------------------------------*/
-#services {
-  background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("../img/services-bg.jpg") fixed center center;
-  background-size: cover;
-  padding: 80px 0 60px 0;
-}
-
-#services .service-item {
-  margin-bottom: 20px;
-}
-
-#services .service-icon {
-  float: left;
-  background: #03C4EB;
-  border-radius: 50%;
-  transition: 0.5s;
-  border: 1px solid #03C4EB;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 64px;
-  height: 64px;
-}
-
-#services .service-icon i {
-  color: #fff;
-  font-size: 24px;
-  line-height: 0;
-}
-
-#services .service-item:hover .service-icon {
-  background: #fff;
-}
-
-#services .service-item:hover .service-icon i {
-  color: #03C4EB;
-}
-
-#services .service-title {
-  margin-left: 80px;
-  font-weight: 700;
-  margin-bottom: 15px;
-  text-transform: uppercase;
-}
-
-#services .service-title a {
-  color: #111;
-}
-
-#services .service-description {
-  margin-left: 80px;
-  line-height: 24px;
-}
-
 
 /* Projects Section
 --------------------------------*/
@@ -598,7 +543,7 @@ section {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #03C4EB;
+  color: #0F2335;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -644,7 +589,7 @@ section {
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover, #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #03C4EB;
+  color: #0F2335;
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
