@@ -81,6 +81,8 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Welcome
 --------------------------------------------------------------*/
+
+
 #hero {
   display: table;
   width: 100%;
@@ -104,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-container {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.342);
   display: table-cell;
   margin: 0;
   padding: 0;
