@@ -279,7 +279,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #03C4EB;
+  color: #0f23359b;
 }
 
 .navbar .dropdown ul {
@@ -312,7 +312,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #03C4EB;
+  color: #0f23359b;
 }
 
 .navbar .dropdown:hover > ul {
@@ -626,11 +626,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #03C4EB;
+  border: 1px solid #0f23359b;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #03C4EB;
+  background-color: #0f23359b;
 }
 
 .portfolio-details .portfolio-info {
@@ -853,6 +853,7 @@ section {
   padding: 0;
   margin: 0;
   font-size: 15px;
+  color: #0f23359b;
 }
 
 .breadcrumbs ol li + li {
