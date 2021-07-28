@@ -39,6 +39,3 @@
 
   echo $contact->send();
 ?>
-
-// looking for new hosting for php 
-// 
