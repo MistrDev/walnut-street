@@ -39,7 +39,3 @@
 
   echo $contact->send();
 ?>
-
-
-// hosting php on heroku
-// https://devcenter.heroku.com/articles/getting-started-with-php
